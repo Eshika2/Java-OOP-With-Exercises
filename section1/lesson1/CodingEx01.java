@@ -1,6 +1,6 @@
-package section4.lesson29.CodingEx20;
+package section1.lesson1;
 
-public class Cat {
+public class CodingEx01 {
     /*
         TODO: Define the fields
         Add three fields of different types:
